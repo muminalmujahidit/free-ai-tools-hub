@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://muminalmujahidit.github.io/free-ai-tools-hub/sitemap.xml
